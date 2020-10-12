@@ -1,0 +1,107 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_7855cef2"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_7b008aae"
+  },
+  {
+    "name": "posts-create",
+    "path": "/posts/create",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\posts\\\\create\\\\index.vue",
+    "chunkName": "pages/posts/create/index",
+    "_name": "_4adc0013"
+  },
+  {
+    "name": "shop-register",
+    "path": "/shop/register",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\shop\\\\register\\\\index.vue",
+    "chunkName": "pages/shop/register/index",
+    "_name": "_045e08d9"
+  },
+  {
+    "name": "user-register",
+    "path": "/user/register",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\user\\\\register\\\\index.vue",
+    "chunkName": "pages/user/register/index",
+    "_name": "_07eb3f24"
+  },
+  {
+    "name": "user-shops",
+    "path": "/user/shops",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\user\\\\shops\\\\index.vue",
+    "chunkName": "pages/user/shops/index",
+    "_name": "_512fd0f0"
+  },
+  {
+    "name": "posts-create-product-id",
+    "path": "/posts/create/product/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\posts\\\\create\\\\product\\\\_id.vue",
+    "chunkName": "pages/posts/create/product/_id",
+    "_name": "_20162dfa"
+  },
+  {
+    "name": "posts-create-service-id",
+    "path": "/posts/create/service/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\posts\\\\create\\\\service\\\\_id.vue",
+    "chunkName": "pages/posts/create/service/_id",
+    "_name": "_1a545a18"
+  },
+  {
+    "name": "shop-edit-id",
+    "path": "/shop/edit/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\shop\\\\edit\\\\_id.vue",
+    "chunkName": "pages/shop/edit/_id",
+    "_name": "_3c10dafa"
+  },
+  {
+    "name": "shop-gallery-id",
+    "path": "/shop/gallery/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\shop\\\\gallery\\\\_id.vue",
+    "chunkName": "pages/shop/gallery/_id",
+    "_name": "_117d3ce4"
+  },
+  {
+    "name": "shop-posts-id",
+    "path": "/shop/posts/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\shop\\\\posts\\\\_id.vue",
+    "chunkName": "pages/shop/posts/_id",
+    "_name": "_3c7bb9ad"
+  },
+  {
+    "name": "shop-profile-id",
+    "path": "/shop/profile/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\shop\\\\profile\\\\_id.vue",
+    "chunkName": "pages/shop/profile/_id",
+    "_name": "_77290117"
+  },
+  {
+    "name": "user-account-id",
+    "path": "/user/account/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\user\\\\account\\\\_id.vue",
+    "chunkName": "pages/user/account/_id",
+    "_name": "_75fa8ab0"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id?",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\posts\\\\_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_21c4e137"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\carlo\\\\Desktop\\\\price-buddy-front-end\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0e4fd0dc"
+  }
+]

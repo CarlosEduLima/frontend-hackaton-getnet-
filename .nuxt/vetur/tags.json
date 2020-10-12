@@ -1,0 +1,44 @@
+{
+  "LeftMenu": {
+    "description": "Auto imported from components/LeftMenu/index.vue"
+  },
+  "LazyLeftMenu": {
+    "description": "Auto imported from components/LeftMenu/index.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header/index.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header/index.vue"
+  },
+  "AskButton": {
+    "description": "Auto imported from components/AskButton/index.vue"
+  },
+  "LazyAskButton": {
+    "description": "Auto imported from components/AskButton/index.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading/index.vue"
+  },
+  "LazyLoading": {
+    "description": "Auto imported from components/Loading/index.vue"
+  },
+  "Oferta": {
+    "description": "Auto imported from components/Oferta/index.vue"
+  },
+  "LazyOferta": {
+    "description": "Auto imported from components/Oferta/index.vue"
+  },
+  "Shop": {
+    "description": "Auto imported from components/Shop/index.vue"
+  },
+  "LazyShop": {
+    "description": "Auto imported from components/Shop/index.vue"
+  },
+  "User": {
+    "description": "Auto imported from components/User/index.vue"
+  },
+  "LazyUser": {
+    "description": "Auto imported from components/User/index.vue"
+  }
+}

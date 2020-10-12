@@ -1,0 +1,26 @@
+{
+  "name": "price-buddy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "google-maps-api-loader": "^1.1.1",
+    "nuxt": "^2.13.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.3",
+    "vue-currency-input": "^1.22.3",
+    "vue-money-format": "^1.2.1",
+    "vuetify": "^2.3.4"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.3.45"
+  }
+}
